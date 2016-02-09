@@ -16,3 +16,5 @@ Swift
 * Group methods into specific extensions for each level of access control
 * When capitalizing acronyms or initialisms, follow the capitalization of the
   first letter.
+* Break up long initializers or function calls by adding linebreaks between
+  arguments.
