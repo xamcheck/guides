@@ -18,3 +18,5 @@ Swift
   first letter.
 * When using `Void` in function signatures, prefer `()` for arguments and
   `Void` for return types.
+* Avoid evaluating a weak reference multiple times in the same scope.
+  Strongify first, then use the strong reference.
