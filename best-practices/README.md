@@ -31,6 +31,26 @@ Object-Oriented Design
 
 [Tell, don't ask]: http://robots.thoughtbot.com/post/27572137956/tell-dont-ask
 
+Choosing open-source libraries
+------------------------------
+
+* Any new open source library needs to be approved by team after discussing it's
+    * Advantages
+    * Dis-advantages
+    * Limitations
+* Future of the library should also be considered:
+    * Current stability (is it widely used and time-tested)
+    * Active development or not
+    * Number of maintainers
+
+Pull Requests
+-------------
+
+* Don't create pull requests with more than one functionality.
+* Pull requests will be rejected if it changes:
+    * 350 lines of code in Python
+    * 200 lines of code in Javascript
+
 Python
 ------
 
@@ -39,8 +59,7 @@ Python
     * [Writing Idiomatic Python](https://jeffknupp.com/writing-idiomatic-python-ebook/) book
     * [http://docs.python-guide.org/en/latest/writing/style/](http://docs.python-guide.org/en/latest/writing/style/)
 * Don't write functions longer than 40 lines.
-* Never use `lmabda` functions.
-* 
+* Never use `lambda` functions.
 
 Postgres
 --------
