@@ -231,7 +231,7 @@ Testing
 
 React
 -------
-[react]:https://github.com/airbnb/javascript/tree/master/react
+[react]: https://github.com/airbnb/javascript/tree/master/react
 
 Angular
 -------
