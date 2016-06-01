@@ -200,7 +200,7 @@ In addition to Shell best practices,
 
 React
 -------
-[react-guidelines]: https://github.com/airbnb/javascript/tree/master/react
+* [react-guidelines](https://github.com/airbnb/javascript/tree/master/react)
 
 Angular
 -------
