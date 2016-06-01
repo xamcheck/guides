@@ -229,6 +229,10 @@ Testing
 
 [inject]: samples/ember.js#L1-L11
 
+React
+-------
+[react guideline airbnb]:https://github.com/airbnb/javascript/tree/master/react
+
 Angular
 -------
 
